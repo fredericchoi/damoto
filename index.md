@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Cai Jianneng">
+    <meta name="generator" content="Jekyll v4.0.1">
+    <title>DAMOTO Motion Matters</title>
+
+    <!-- Bootstrap core CSS -->
+
+
+    <link rel="stylesheet" href="./css/bootstrap.css">
+    <link rel="stylesheet" href="./css/damotomm.css">
+    <script src="./js/jquery.js"></script>
+    <script src="./js/bootstrap.js"></script>
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+
+    </style>
+    <!-- Custom styles for this template -->
+
+  </head>
+  <body class="d-flex flex-column h-100">
+    <header>
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-color">
+    
+
+
+    <div class="collapse navbar-collapse " id="navbarCollapse">
+      <div class="container" >
+          <img src="../img/DAMOTO_LOGO_W.png" width="180" alt="Responsive image" calss="img-responsive" style="margin-left:10rem;"href="index.html">    </img>
+          <ul class="navbar-nav mr-auto navbaralign" >
+            <li class="nav-item dropdown">
+              <a class="nav-link  nav-span" href="./Products.html" id="dropdown10" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PRODUCTS</a>
+              <div class="dropdown-menu " aria-labelledby="dropdown10">
+                <a class="dropdown-item" href="./Products.html#motor">Motor</a>
+                <a class="dropdown-item" href="./Products.html#gearmotor">Gear motor</a>
+                <a class="dropdown-item" href="./Products.html#controller">Controller</a>
+                <a class="dropdown-item" href="./Products.html#servo">Servo</a>
+              </div>
+            </li>
+
+            <li class="nav-item dropdown">
+              <a class="nav-link nav-span" href="#" id="dropdown10" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">APPLICATIONS</a>
+              <div class="dropdown-menu" aria-labelledby="dropdown10">
+                <a class="dropdown-item" href="#">3D Printing</a>
+                <a class="dropdown-item" href="#">AUTOMATION</a>
+                <a class="dropdown-item" href="#">ROBOTICS</a>
+                <a class="dropdown-item" href="#">MEDICAL&HEALTHCARE</a>
+              </div>     
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link nav-span" href="#" >TECHNOLOGY</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link nav-span" href="#">CONTACTS </a>
+        </li>
+      </ul>
+    </div> 
+      <form class="form-inline mt-2 mt-md-0">
+        <input class="form-control mr-sm-2" type="text" placeholder="input model" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+      </form>
+    </div>
+  </nav>
+
+
+
+</header>
+
+<main role="main" class="flex-shrink-0">
+
+
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+<!--          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
+-->
+        </ol>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+           <img src="../img/c1_1920x450.jpg" alt="" width=60%></img>
+            <div class="container">
+              <div class="carousel-caption text-left">
+                <h1>outrunner BLDC</h1>
+                <p>used for robotic & automation</p>
+                <p><a class="btn btn-lg btn-primary" href="./Products.html#motor" role="button" style="color:white">More</a></p>
+              </div>
+            </div>
+          </div>
+        
+          <!--
+          
+          <div class="carousel-item">
+            <img src="" alt=""></img>
+            <div class="container">
+              <div class="carousel-caption">
+                <h1>Another example headline.</h1>
+                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="" alt=""></img>
+            <div class="container">
+              <div class="carousel-caption text-right">
+                <h1>One more for good measure.</h1>
+                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+              </div>
+            </div>
+          </div>
+         -->
+        </div>
+        <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+     
+
+  <!-- Marketing messaging and featurettes
+  ================================================== -->
+  <!-- Wrap the rest of the page in another container to center all the content. -->
+
+  <div class="container marketing">
+
+    <!-- Three columns of text below the carousel -->
+    <div class="row">
+      <div class="col-lg-4">
+        <img src="../img/Motor_01.jpg" alt="">
+        <h2>Motor</h2>
+        <p>BLDC/PMSMs are our focus at present. Most of them are sensor available(halls or encodes). Use our gearbox and controller, you will find more posibilities for automation & robotics applications!   </p>
+        <p><a class="btn btn-secondary" href="./Products.html#motor" role="button">Learn more&raquo;</a></p>
+      </div><!-- /.col-lg-4 -->
+      <div class="col-lg-4">
+        <img src="../img/controller.jpg" width="190px" alt="">
+        <h2>Controller</h2>
+        <p> Damoto provides various solutions for driving algorithms. Square-wave (Six-steps) or FOC are mostly typical applied. There are also 3-hall sensors and encoders or even sensorless in terms of sensors. Find your own match! </p>
+        <p><a class="btn btn-secondary" href="./Products.html#controller" role="button">Learn More &raquo;</a></p>
+      </div><!-- /.col-lg-4 -->
+      <div class="col-lg-4">
+        <img src="../img/Gearotor_01.jpg" width="190px" alt="">
+        <h2>Gear motor</h2>
+        <p>In most applications the motor output rpm need to be reduced in order to get a lower speed as well as a larger torque. Damoto provides different kinds of high precision gearboxes for different applications.</p>
+        <p><a class="btn btn-secondary" href="./Products.html#gearmotor" role="button">Learn More &raquo;</a></p>
+      </div><!-- /.col-lg-4 -->
+    </div><!-- /.row -->
+
+
+    <!-- START THE FEATURETTES -->
+
+    <hr class="featurette-divider">
+<!--
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">Outrunner BLDC- <span class="text-muted">For automation.</span></h2>
+        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+      </div>
+      <div class="col-md-5">
+        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 500x500"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">Find whole package solution of motion control!<span class="text-muted"></span></h2>
+        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+      </div>
+      <div class="col-md-5 order-md-1">
+        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 500x500"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+  -->
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">Smart Servo! <span class="text-muted">FOC implemented!</span></h2>
+        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+      </div>
+      <div class="col-md-5">
+        <!--
+        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 500x500"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+        -->
+        <img src="../img/servo_02.JPG" height=70% alt="">
+      </div>
+    </div>
+
+
+
+    <!-- /END THE FEATURETTES -->
+
+  </div><!-- /.container -->
+
+
+
+</main>
+  <!-- FOOTER -->
+
+  <footer class="blog-footer">
+    <p>2020 All rights reserved <a href="https://getbootstrap.com/">@ DAMOTO</a> &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+    <p>
+      <a href="#">Back to top</a>
+    </p>
+  </footer>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="./js/vendor/jquery.slim.min.js"><\/script>')</script><script src="./js/bootstrap.bundle.js"></script>
+
+
+</body>
+</html>
