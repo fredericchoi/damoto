@@ -44,7 +44,7 @@
 
     <div class="collapse navbar-collapse " id="navbarCollapse">
       <div class="container" >
-          <img src="../img/DAMOTO_LOGO_W.png" width="180" alt="Responsive image" calss="img-responsive" style="margin-left:10rem;"href="index.html">    </img>
+          <img src="./img/DAMOTO_LOGO_W.png" width="180" alt="Responsive image" calss="img-responsive" style="margin-left:10rem;"href="index.html">    </img>
           <ul class="navbar-nav mr-auto navbaralign" >
             <li class="nav-item dropdown">
               <a class="nav-link  nav-span" href="./Products.html" id="dropdown10" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PRODUCTS</a>
