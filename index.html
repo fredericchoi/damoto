@@ -97,7 +97,7 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-           <img src="../img/c1_1920x450.jpg" alt="" width=60%></img>
+           <img src="./img/c1_1920x450.jpg" alt="" width=60%></img>
             <div class="container">
               <div class="carousel-caption text-left">
                 <h1>outrunner BLDC</h1>
@@ -151,19 +151,19 @@
     <!-- Three columns of text below the carousel -->
     <div class="row">
       <div class="col-lg-4">
-        <img src="../img/Motor_01.jpg" alt="">
+        <img src="./img/Motor_01.jpg" alt="">
         <h2>Motor</h2>
         <p>BLDC/PMSMs are our focus at present. Most of them are sensor available(halls or encodes). Use our gearbox and controller, you will find more posibilities for automation & robotics applications!   </p>
         <p><a class="btn btn-secondary" href="./Products.html#motor" role="button">Learn more&raquo;</a></p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
-        <img src="../img/controller.jpg" width="190px" alt="">
+        <img src="./img/controller.jpg" width="190px" alt="">
         <h2>Controller</h2>
         <p> Damoto provides various solutions for driving algorithms. Square-wave (Six-steps) or FOC are mostly typical applied. There are also 3-hall sensors and encoders or even sensorless in terms of sensors. Find your own match! </p>
         <p><a class="btn btn-secondary" href="./Products.html#controller" role="button">Learn More &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
-        <img src="../img/Gearotor_01.jpg" width="190px" alt="">
+        <img src="./img/Gearotor_01.jpg" width="190px" alt="">
         <h2>Gear motor</h2>
         <p>In most applications the motor output rpm need to be reduced in order to get a lower speed as well as a larger torque. Damoto provides different kinds of high precision gearboxes for different applications.</p>
         <p><a class="btn btn-secondary" href="./Products.html#gearmotor" role="button">Learn More &raquo;</a></p>
