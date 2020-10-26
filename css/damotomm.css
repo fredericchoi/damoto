@@ -181,6 +181,10 @@ a:active {color:#000000; text-decoration:none;}  /* 鼠标点击时 */
   background:rgb(173, 186, 212);
 }
 
+.SubColorRow{
+  background:rgb(120, 144, 194);
+}
+
 
 .spec-table{
   margin-top: 1rem;
