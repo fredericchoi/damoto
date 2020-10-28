@@ -12,6 +12,45 @@
 {
     margin-right: 2rem;
 }
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  display: none;
+  float: left;
+  min-width: 10rem;
+  padding: 0.5rem 0;
+  margin: 0.125rem 0 0;
+  font-size: 1rem;
+  color: rgb(76, 0, 255);
+  text-align: left;
+  list-style: none;
+  background-color: rgb(60,60,130);
+  background-clip: padding-box;
+  border: 0px solid rgba(0, 0, 0, 0.15);
+  border-radius: 0.25rem;
+}
+
+
+.dropdown-item {
+  display: block;
+  width: 100%;
+  padding: 0.25rem 1.5rem;
+  clear: both;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: inherit;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  color: rgb(87, 75, 75);
+  text-decoration: none;
+  background-color: #6e86c9;
+}
 
 /* Custom page CSS
 -------------------------------------------------- */
@@ -39,12 +78,13 @@
     color: #5a5a5a;
   }
 
-a:link{color:#000000;}      /* 未访问链接*/
-a:visited {color:#424242;}  /* 已访问链接 */
-a:hover {color:#000000;}  /* 鼠标移动到链接上 */
-a:active {color:#000000; text-decoration:none;}  /* 鼠标点击时 */
-  
+  a:link{color:#000000;}      /* 未访问链接*/
+  a:visited {color:#424242;}  /* 已访问链接 */
+  a:hover {color:#000000;}  /* 鼠标移动到链接上 */
+  a:active {color:#000000; text-decoration:none;}  /* 鼠标点击时 */
+
   /* CUSTOMIZE THE CAROUSEL
+  
   -------------------------------------------------- */
   
   /* Carousel base class */

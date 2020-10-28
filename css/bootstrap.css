@@ -3242,12 +3242,12 @@ input[type="button"].btn-block {
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 1rem;
-  color: #212529;
+  color: #0080ff;
   text-align: left;
   list-style: none;
-  background-color: #fff;
+  background-color: rgb(60,60,130);
   background-clip: padding-box;
-  border: 1px solid rgba(0, 0, 0, 0.15);
+  border: 0px solid rgba(0, 0, 0, 0.15);
   border-radius: 0.25rem;
 }
 
